@@ -10,3 +10,5 @@
 - InstaRevive
 - No Recoil
 - Crosshair
+
+# [Download Build](https://github.com/khizzcr7/ExternalFortnite/releases/download/download/build.zip) 
