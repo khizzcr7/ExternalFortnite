@@ -1,7 +1,7 @@
 # ExternalFortnite
 
 
-Features:
+# Cheat Features:
 
 Memory Aimbot
 Esp Box
@@ -11,7 +11,5 @@ Rapid Fire
 No Spread
 Spinbot
 InstaRevive
-Airstuck
-ADS in Air
 No Recoil
 Crosshair
